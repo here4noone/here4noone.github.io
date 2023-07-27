@@ -10,17 +10,19 @@
 ############################
 
 # Name of website
-title: My Website
+title: The Excavators Co-Op
 
 # Your name to show in the footer
-author: Some Person
+author: Bungalow?
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Us: "aboutus"
+  QT Open Mic: "qtopenmic"
+  Slam Poetry Night: "slam"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
